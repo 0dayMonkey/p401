@@ -1,0 +1,8 @@
+J'vais créer des entités genre et platforme pour la bdd avec les services + methodes qui les accompagnes,
+jfais ça pour pouvoir dans l'onglet recherche pouvoir avoir une liste défilante avec les entity deja existantes
+jvais voir si y'a pas d'autres méthodes possibles pour faire ça mais ça mpermettra au moins
+de faire des relations ec psq on s'en est pas trop occupés et tout sfait à peu près automatiquement
+niveau liaison, on peut aussi faire un truc sympa c-a-d dans le repository faire une query perso psq pour l'instant on utilise tout 
+cque nous donne srpingboot
+
+dis-moi si t'as des recommandations
